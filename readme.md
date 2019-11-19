@@ -4,10 +4,11 @@ This is supposed to be as simple-as-possible.
 - Comments try to explain what everything does
 
 To make it work on your machine:
-- Clone this using *git clone https://github.com/alexcasper/simplerdbaccess.git*
-- Update the database config settings in client to work with your database
-- Change the query to get the information you need, in the format you need it
-- Update the client code, or incorporate it into your existing website
+- Clone this using *git clone https://github.com/alexcasper/simplerdbaccess.git*  .
+- Get the MySql and Express modules by doing 'npm install' in the correct directory.
+- Update the database config settings in client to work with your database.
+- Change the query to get the information you need, in the format you need it.
+- Update the client code, or incorporate it into your existing website.
 
 This is not super *secure* or an example of *best-practice*. It's a hack.
 
