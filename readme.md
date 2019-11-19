@@ -1,2 +1,3 @@
 This is supposed to be as simple-as-possible.
-The only files to have data in them are 
+- The server.js file does all routing and database access
+- The public/index.html has all the client side stuff
